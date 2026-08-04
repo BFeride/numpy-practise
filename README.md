@@ -1,4 +1,3 @@
-# numpy-practise
 ## NumPy Practice
 This repository contains my NumPy practice exercises while learning Python for Data Science.
 
